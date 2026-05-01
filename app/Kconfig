@@ -1,0 +1,12 @@
+menu "Local configuration"
+  config APP_HEARTBEAT_PERIOD_MS
+  int "Heartbeat period"
+  range 100 2000
+  default 500
+
+endmenu
+
+
+menu "Zephyr configuration"
+  source "Kconfig.zephyr"
+endmenu
