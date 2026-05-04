@@ -1,0 +1,12 @@
+build warning message:
+
+CMake Warning at boards/charlie/nxp/mimxrt1020_evk/CMakeLists.txt:11 (message):
+  It appears you are using the board definition for the MIMXRT1020-EVK, but
+  targeting a custom board.  You may need to update your flash configuration
+  or device configuration data blocks
+
+
+CMake Warning at boards/charlie/nxp/mimxrt1020_evk/CMakeLists.txt:34 (message):
+  You are using SDRAM as RAM but no device configuration data (DCD) is
+  included.  This configuration may not boot
+

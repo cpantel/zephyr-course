@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-identifier: mimxrt1020_evk
-name: NXP MIMXRT1020-EVK
+identifier: my_mimxrt1020_evk
+name: Charlie MY MIMXRT1020-EVK
 type: mcu
 arch: arm
 toolchain:
@@ -26,4 +26,4 @@ supported:
   - sdhc
   - spi
   - usb_device
-vendor: nxp
+vendor: charlie

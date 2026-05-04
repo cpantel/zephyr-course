@@ -1,6 +1,6 @@
 board:
-  name: mimxrt1020_evk
-  full_name: MIMXRT1020-EVK
-  vendor: nxp
+  name: my_mimxrt1020_evk
+  full_name: MY MIMXRT1020-EVK
+  vendor: charlie
   socs:
     - name: mimxrt1021

@@ -11,8 +11,8 @@
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
 / {
-	model = "NXP MIMXRT1020-EVK board";
-	compatible = "nxp,mimxrt1021";
+	model = "Charlie MY MIMXRT1020-EVK board";
+	compatible = "charlie,my_mimxrt1021";
 
 	aliases {
 		led0 = &green_led;
