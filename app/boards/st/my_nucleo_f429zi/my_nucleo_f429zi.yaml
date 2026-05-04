@@ -1,5 +1,5 @@
-identifier: nucleo_f429zi
-name: ST Nucleo F429ZI
+identifier: my_nucleo_f429zi
+name: Charlie My Nucleo F429ZI
 type: mcu
 arch: arm
 toolchain:
