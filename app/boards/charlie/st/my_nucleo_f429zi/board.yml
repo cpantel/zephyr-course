@@ -1,0 +1,6 @@
+board:
+  name: my_nucleo_f429zi
+  full_name: My Nucleo F429ZI
+  vendor: charlie
+  socs:
+    - name: stm32f429xx
