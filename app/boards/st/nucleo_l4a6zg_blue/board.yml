@@ -1,0 +1,6 @@
+board:
+  name: nucleo_l4a6zg_blue
+  full_name: Nucleo L4A6ZG Blue
+  vendor: st
+  socs:
+    - name: stm32l4a6xx

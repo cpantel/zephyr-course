@@ -1,0 +1,6 @@
+board:
+  name: my_nucleo_l4a6zg
+  full_name: My Nucleo L4A6ZG
+  vendor: charlie
+  socs:
+    - name: stm32l4a6xx
